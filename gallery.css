@@ -50,7 +50,7 @@ background: #f0f4f8;
 	background:#3f51b5;
 	color:#fff;
 	border:none;
-	border-radius:50;
+	border-radius:50%;
 	width:40px;
 	height:40px;
 	cursor:pointer;
@@ -62,7 +62,7 @@ background: #f0f4f8;
 }
 .prev {left:5px;}
 .next {right:5px;}
-.prev:hover;next:hover{background:2c3e91;
+.prev:hover; .next:hover{background:2c3e91;}
 @media(max-width:765px){
 .card{flex: 0 0 200px; margin: 0 8px;}
 .prev .next {width:35px;

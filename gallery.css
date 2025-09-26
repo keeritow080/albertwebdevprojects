@@ -58,7 +58,7 @@ background:#f0f4f8;
 	display:flex;
 	justify-content:center;
 	align-items:center;
-	z-index:10;
+	z-index:5;
 }
 .prev {left:5px;}
 .next {right:5px;}

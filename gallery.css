@@ -24,5 +24,12 @@ background:#f0f4f8;
 	background:#fff;	
 	border-radius: 12px;
 	box-shadow: 0 8px 20px rgba (0,0,0,0.15);
+	text-align:center;
+	padding:20px;
+	box-sizing: border-box;
+}
+.card img{
+	width:100px;
+	
 }
 	

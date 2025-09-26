@@ -18,6 +18,9 @@ background:#f0f4f8;
 	display:flex;
 	transition: transition 0.5s ease-in-out;
 }
+.card{
+	flex:  0 0 250px; /*default card width*/
+}
 	
 
 

@@ -8,13 +8,13 @@ min-height:100vh;
 background:#f0f4f8;
 }
 
-.carousel-container;
+.carousel-container{
 	position:relative;
 	width:90%;
 	max-width:900px;
 	overflow:hidden;
 }
-.carousel
+.carousel{
 	display:flex;
 	transition: transition 0.5s ease-in-out;
 }
@@ -26,6 +26,3 @@ background:#f0f4f8;
 	box-shadow: 0 8px 20px rgba (0,0,0,0.15);
 }
 	
-
-
-}

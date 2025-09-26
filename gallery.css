@@ -20,6 +20,8 @@ background:#f0f4f8;
 }
 .card{
 	flex:  0 0 250px; /*default card width*/
+	margin: 0 10px;
+	background: #fff;	
 }
 	
 

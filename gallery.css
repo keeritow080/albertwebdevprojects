@@ -3,12 +3,12 @@
 <style>
 body {
 margin:0
-font-family: Tahoma, Verdana, sans-serif;
+font-family: Arial,sans-serif;
 display:flex;
 justify-content:center;
 align-items:center;
 min-height:100vh;
-background:lightblue;
+background:#f0f4f8;
 }
 
 .carousel-container{

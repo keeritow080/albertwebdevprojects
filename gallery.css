@@ -67,10 +67,10 @@ background:#f0f4f8;
 .card{flex: 0 0 200px; margin:
 .prev .next {width:35px;}
 height:35px; font-size:1 rem; 0 8px;}
-	
-	
-	  
-			 
+@media(max-width:480px){
+.card{flex: 0 0 90%; margin: 0.5%;}
+.prev,.next{width:30px;height:30px
+			font-size:0.9rem;}
 }
 
 

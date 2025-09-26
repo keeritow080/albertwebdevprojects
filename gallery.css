@@ -62,6 +62,15 @@ background:#f0f4f8;
 }
 .prev {left:5px;}
 .next {right:5px;}
+.prev:hover;next:hover{background:2c3e91;
+@media(max-width:765px){
+.card{flex: 0 0 200px; margin:
+.prev .next {width:35px;}
+height:35px; font-size:1 rem; 0 8px;}
+	
+	
+	  
+			 
 }
 
 

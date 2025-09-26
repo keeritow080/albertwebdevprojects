@@ -1,0 +1,24 @@
+body {
+margin:0
+font-family:Arial, sans-serif;
+display:flex;
+justify-content:center;
+align-items:center;
+min-height:100vh;
+background:#f0f4f8;
+}
+
+.carousel-container;
+	position:relative;
+	width:90%;
+	max-width:900px;
+	overflow:hidden;
+}
+.carousel
+	display:flex;
+	transition: transition 0.5s ease-in-out;
+}
+	
+
+
+}
